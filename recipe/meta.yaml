@@ -23,7 +23,7 @@ requirements:
     - dask-core
     - immutabledict
     - python >=3.0
-    - rechunker
+    - rechunker >=0.5.1
     - xarray
     - zarr
 
